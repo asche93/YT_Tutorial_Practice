@@ -1,4 +1,8 @@
 {
     "workbench.colorTheme": "Catppuccin Mocha",
-    "window.title": "${activeEditorLong}"
+    "window.title": "${activeEditorLong}",
+    "chat.agent.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "inlineChat.accessibleDiffView": "off",
+    "terminal.integrated.initialHint": false
 }
